@@ -1,1 +1,1 @@
-This is Divya's first git project!
+This is quickbrownsloth's first git project!
